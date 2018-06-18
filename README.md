@@ -9,6 +9,7 @@ The order in which the breaks occur can affect the total amount of time used.
 
 ## Example :-
 given a String **S = ABCDEFGHIJKLMNOPQRST**
+
 break the string after 2, 8, 10
 
 ###### LEFT-RIGHT:
