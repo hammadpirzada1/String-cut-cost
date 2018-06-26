@@ -1,0 +1,15 @@
+c:\users\hammii\documents\visual studio 2015\Projects\BreakAString\BreakAString\bin\Debug\BreakAString.exe.config
+c:\users\hammii\documents\visual studio 2015\Projects\BreakAString\BreakAString\bin\Debug\BreakAString.exe
+c:\users\hammii\documents\visual studio 2015\Projects\BreakAString\BreakAString\bin\Debug\BreakAString.pdb
+c:\users\hammii\documents\visual studio 2015\Projects\BreakAString\BreakAString\obj\Debug\BreakAString.csprojResolveAssemblyReference.cache
+c:\users\hammii\documents\visual studio 2015\Projects\BreakAString\BreakAString\obj\Debug\BreakAString.exe
+c:\users\hammii\documents\visual studio 2015\Projects\BreakAString\BreakAString\obj\Debug\BreakAString.pdb
+C:\Users\vbstudent\Downloads\BreakAString\BreakAString\bin\Debug\BreakAString.exe.config
+C:\Users\vbstudent\Downloads\BreakAString\BreakAString\obj\Debug\BreakAString.exe
+C:\Users\vbstudent\Downloads\BreakAString\BreakAString\obj\Debug\BreakAString.pdb
+C:\Users\vbstudent\Downloads\BreakAString\BreakAString\bin\Debug\BreakAString.exe
+C:\Users\vbstudent\Downloads\BreakAString\BreakAString\bin\Debug\BreakAString.pdb
+C:\Users\vbstudent\Downloads\BreakAString\BreakAString\obj\Debug\BreakAString.csprojResolveAssemblyReference.cache
+C:\Users\vbstudent\Desktop\BreakAString\BreakAString\bin\Debug\BreakAString.exe.config
+C:\Users\vbstudent\Desktop\BreakAString\BreakAString\obj\Debug\BreakAString.exe
+C:\Users\vbstudent\Desktop\BreakAString\BreakAString\obj\Debug\BreakAString.pdb
