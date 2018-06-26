@@ -52,8 +52,8 @@ namespace BreakAString
         }
         static void Main(string[] args)
         {
-            int[] L = new int[] { 2 ,8, 10 };
-            int n = 20;
+            int[] L = new int[] { 2 ,8, 10 };                           //Input Breaks.
+            int n = 20;                                                 //Input String Length.
             Console.Write("Breaks at: ");
             foreach (var i in L)
             {
